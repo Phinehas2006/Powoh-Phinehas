@@ -22,5 +22,5 @@ I believe good software starts with understanding a problem, exploring possible 
 ## Let's connect
 
 I'm always open to learning, sharing ideas, and collaborating on projects that use technology to solve meaningful problems.
-![Coding animation](insert.gif)  ![Coding animation](coding.gif)
+![Coding animation](insert.gif)  ![Coding animation](coding.gif) ![Coding animation](type.gif)
 
